@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, eu sou Rodrigo Procopio 👋
 
-<!--
-**RodrigoProcopio/RodrigoProcopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍💼 Atualmente sou Head de Tecnologia e Operações na [Keeys Smart Lockers](https://www.keeys.com.br).
+- 💻 Atuo como desenvolvedor de hardware, software e produtos.
+- 📚 Estou cursando Pós-Graduação em Engenharia de Software pela PUC Rio.
+- 🔒 Tenho uma sólida experiência no setor de segurança eletrônica e tecnologia.
+- 🥋 Sou instrutor de Krav Magá pela Federação Sul Americana de Krav Maga.
 
-Here are some ideas to get you started:
+## Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Trabalho principalmente com Python.
+- 🌐 Tenho experiência em desenvolvimento web com HTML, CSS, JavaScript e Flask.
+- 📦 Gerenciamento de banco de dados SQLite.
+- 📖 APIs e documentação Swagger.
+- 🌌 Trabalho com hardware IoT, incluindo Raspberry Pi, Arduino e Asus Thinker.
+                                                                               
+<div style="display: inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  <img width='50' height='50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />  
+  <img width='50' height='50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+</div>
+
+## Você também me encontra em:
+<a href="https://www.linkedin.com/in/rodrigoprocopio/"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+
+Fique à vontade para explorar meus repositórios e projetos no GitHub. Estou sempre aberto a colaborações e discussões interessantes. 😄

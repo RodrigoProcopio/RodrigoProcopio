@@ -13,7 +13,7 @@
 - 🌐 Tenho experiência em desenvolvimento web com HTML, CSS, JavaScript e Flask.
 - 📦 Gerenciamento de banco de dados SQLite.
 - 📖 APIs e documentação Swagger.
-- 🌌 Trabalho com hardware IoT, incluindo Raspberry Pi, Arduino e Asus Thinker.
+- 🌌 Trabalho com hardware IoT, incluindo Raspberry Pi, Arduino e Asus Tinker.
 
                                                                                
 ## Você também me encontra em:

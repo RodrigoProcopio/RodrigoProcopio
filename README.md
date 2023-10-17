@@ -1,7 +1,7 @@
 # Olá, eu sou Rodrigo Procopio 👋
 
 ## Sobre mim
-- 👨‍💼 Atualmente estou Analista de Requisitos na [Exati Tecnologia](https://exati.com.br/)
+- 👨‍💼 Atualmente estou Analista de Requisitos na [Exati Tecnologia](https://exati.com.br/).
 - 💻 Atuo com a interface entre cliente e o desenvolvimento.
 - 📚 Estou cursando Pós-Graduação em Engenharia de Software pela PUC Rio.
 - 🔒 Tenho uma sólida experiência no setor de segurança eletrônica e tecnologia.

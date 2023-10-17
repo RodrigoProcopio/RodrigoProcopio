@@ -1,8 +1,8 @@
 # Olá, eu sou Rodrigo Procopio 👋
 
 ## Sobre mim
-- 👨‍💼 Atualmente sou Head de Tecnologia e Operações na [Keeys Smart Lockers](https://www.keeys.com.br).
-- 💻 Atuo como desenvolvedor de hardware, software e produtos.
+- 👨‍💼 Atualmente estou Analista de Requisitos na [Exati Tecnologia](https://exati.com.br/)
+- 💻 Atuo com a interface entre cliente e o desenvolvimento.
 - 📚 Estou cursando Pós-Graduação em Engenharia de Software pela PUC Rio.
 - 🔒 Tenho uma sólida experiência no setor de segurança eletrônica e tecnologia.
 - 🥋 Sou instrutor de Krav Magá pela Federação Sul Americana de Krav Maga.

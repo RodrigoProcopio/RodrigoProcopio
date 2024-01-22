@@ -43,6 +43,28 @@ Fique à vontade para explorar meus repositórios e projetos no GitHub. Estou se
 
 Feel free to explore my repositories and projects on GitHub. I'm always open to collaborations and interesting discussions. 😄
 
+# ¡Hola, soy Rodrigo Procopio! 👋
+
+## Sobre mí
+- 👨‍💼 Actualmente trabajo como Analista de Requisitos en [Exati Tecnologia](https://exati.com.br/).
+- 💻 Me desempeño en la interfaz entre el cliente y el desarrollo.
+- 📚 Estoy cursando una Maestría en Ingeniería de Software en la PUC Rio.
+- 🔒 Tengo una sólida experiencia en el sector de seguridad electrónica y tecnología.
+- 🥋 Soy instructor de Krav Magá certificado por la Federación Sudamericana de Krav Maga.
+
+## Mis habilidades
+
+- 🐍 Trabajo principalmente con Python.
+- 🌐 Tengo experiencia en desarrollo web con HTML, CSS, JavaScript y Flask.
+- 📦 Gestión de bases de datos SQLite.
+- 📖 APIs y documentación Swagger.
+- 🌌 Trabajo con hardware IoT, incluyendo Raspberry Pi, Arduino y Asus Tinker.
+
+## También puedes encontrarme en:
+<a href="https://www.linkedin.com/in/rodrigoprocopio/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+Siéntete libre de explorar mis repositorios y proyectos en GitHub. Siempre estoy abierto a colaboraciones y discusiones interesantes. 😄
+
 <div style="display: inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />

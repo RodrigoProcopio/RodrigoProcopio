@@ -3,7 +3,7 @@
 ## Sobre mim
 - 👨‍💼 Atualmente estou Analista de Requisitos na [Exati Tecnologia](https://exati.com.br/).
 - 💻 Atuo com a interface entre cliente e o desenvolvimento.
-- 📚 Estou cursando Pós-Graduação em Engenharia de Software pela PUC Rio.
+- 📚 Pós-Graduado em Engenharia de Software pela PUC Rio.
 - 🔒 Tenho uma sólida experiência no setor de segurança eletrônica e tecnologia.
 - 🥋 Sou instrutor de Krav Magá pela Federação Sul Americana de Krav Maga.
 
@@ -26,7 +26,7 @@ Fique à vontade para explorar meus repositórios e projetos no GitHub. Estou se
 ## About Me
 - 👨‍💼 Currently working as a Requirements Analyst at [Exati Tecnologia](https://exati.com.br/).
 - 💻 Engaged in bridging the gap between clients and development teams.
-- 📚 Pursuing a Postgraduate degree in Software Engineering at PUC Rio.
+- 📚 Postgraduate degree in Software Engineering at PUC Rio.
 - 🔒 Possess solid experience in the electronic security and technology sector.
 - 🥋 Krav Maga instructor certified by the South American Krav Maga Federation.
 
@@ -48,7 +48,7 @@ Feel free to explore my repositories and projects on GitHub. I'm always open to 
 ## Sobre mí
 - 👨‍💼 Actualmente trabajo como Analista de Requisitos en [Exati Tecnologia](https://exati.com.br/).
 - 💻 Me desempeño en la interfaz entre el cliente y el desarrollo.
-- 📚 Estoy cursando una Maestría en Ingeniería de Software en la PUC Rio.
+- 📚 Maestría en Ingeniería de Software en la PUC Rio.
 - 🔒 Tengo una sólida experiencia en el sector de seguridad electrónica y tecnología.
 - 🥋 Soy instructor de Krav Magá certificado por la Federación Sudamericana de Krav Maga.
 
